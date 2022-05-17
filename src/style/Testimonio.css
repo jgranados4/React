@@ -9,6 +9,27 @@
     box-shadow: 0 3px 13px 1px rgb(0 0 0 /90%);
 }
 img{
-    width: 100%;
+    width: auto;
     height: 100%;
+}
+.contenedor-textotestimonio{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    font-family: lato,sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.nombrestestimonio{
+    font-size: 1.3rem;
+}
+.cargotestimonio{
+    font-size:1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+.texto-testimonio{
+    font-size: 1.1rem;
+    text-align: justify;
 }

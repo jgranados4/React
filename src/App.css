@@ -22,7 +22,7 @@ h1{
   text-align: center;
 }
 .contenido-principal{
-  min-height: 600px;
+  min-height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
