@@ -13,14 +13,14 @@ const App= ()=>{
       </div>
       <Testimonio
         nombre='Emma'
-        pais='Ecuador'
+        país='Ecuador'
         cargo='Ingeniera de sistemas'
         imagen='ima'
         empresa='Facebook'
         Testimonio='Lorem ipsum dolor sit amet, consectetur adipiscing elit.'/>
        < Testimonio
         nombre='Juan'
-        pais='Peru'
+        país='Peru'
         cargo='Ingeniero de sistemas'
         imagen='ima'
         empresa='Facebook'
